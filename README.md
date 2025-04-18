@@ -1,4 +1,4 @@
-# Double Threshold Validation Tool (DTVT)
+# Double-Threshold Validation Tool (DTVT)
 
 ### Code Author: Nicola Nocentini
 ### Contacts: nicola.nocentini@unifi.it, nicola.nocentini@gmail.com
