@@ -12,7 +12,7 @@ This approach also allows for establishing multiple warning criteria based on th
 
 You are encouraged to use this code with your own data. If you have any questions or require assistance, please don't hesitate to contact me.
 
-**Workflow of the tool**
+**DTVT workflow:**
 
     
 ![Workflow_DTVT](Workflow_DTVT.jpg)
