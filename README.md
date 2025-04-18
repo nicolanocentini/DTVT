@@ -12,6 +12,9 @@ This approach also allows for designing a LEWS structured on multiple warning le
 
 You are encouraged to use this code with your own data. If you have any questions or need assistance, please don’t hesitate to contact me.
 
+If you use **DTVT** in your work, please cite:
+DOI: [https://doi.org/10.5281/zenodo.15240894](https://doi.org/10.5281/zenodo.15240894)
+
 **DTVT workflow:**
 
     
