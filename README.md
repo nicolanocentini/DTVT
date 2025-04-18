@@ -15,4 +15,4 @@ You are encouraged to use this code with your own data. If you have any question
 **Workflow of the tool**
 
     
-![Workflow_DTVT.jpg](C:\\Users\\nicol\\OneDrive\\Desktop\\Code\\Workflow_DTVT.jpg)
+![Workflow_DTVT.jpg](DTVT\Code\Workflow_DTVT.jpg)
