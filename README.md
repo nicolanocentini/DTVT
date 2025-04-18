@@ -15,4 +15,4 @@ You are encouraged to use this code with your own data. If you have any question
 **Workflow of the tool**
 
     
-![Workflow_DTVT](DTVT/Code/Workflow_DTVT.tif)
+![Workflow_DTVT](DTVT/Code/Workflow_DTVT.jpg)
